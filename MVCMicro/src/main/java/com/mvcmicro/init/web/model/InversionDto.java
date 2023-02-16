@@ -1,4 +1,4 @@
-package com.mvcmicro.init;
+package com.mvcmicro.init.web.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

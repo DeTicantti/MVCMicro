@@ -1,6 +1,6 @@
 package com.mvcmicro.init.services;
 
-import com.mvcmicro.init.InversionDto;
+import com.mvcmicro.init.web.model.InversionDto;
 
 import java.util.UUID;
 

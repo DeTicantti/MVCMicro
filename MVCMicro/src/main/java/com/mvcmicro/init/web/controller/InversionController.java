@@ -1,7 +1,7 @@
 package com.mvcmicro.init.web.controller;
 
-import com.mvcmicro.init.InversionDto;
 import com.mvcmicro.init.services.InversionServices;
+import com.mvcmicro.init.web.model.InversionDto;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
